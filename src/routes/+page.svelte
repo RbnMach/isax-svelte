@@ -1,6 +1,6 @@
 <script lang="ts">
-	import { Isax, Bold, Bulk, Linear, Outline, Twotone } from "$lib/index.js";
-	
+	import { Isax, Bold, Bulk, Linear, Outline, Twotone } from '$lib/index.js';
+
 	let name = 'user';
 </script>
 
@@ -8,10 +8,10 @@
 <button on:click={() => (name == 'user' ? (name = 'home') : (name = 'user'))}>Click</button>
 
 <p><Bold name="home" size="2em" axis_y="0.5em" axis_x="0.5em" /> Home</p>
-<!-- <p><Bulk name="home" size="15px" axis_y="12px" axis_x="1px" /> Home</p>
-<p><Linear name="home" size="2rem" axis_y="5rem" axis_x="5rem" /> Home</p>
-<p><Outline name="home" size="1%" axis_y="4%" axis_x="2%" /> Home</p>
-<p><Twotone name="home" size="2pt" axis_y="3pt" axis_x="1pt" /> Home</p> -->
+<p><Bulk name="home" size="35px" axis_y="0.5px" axis_x="-1px" /> Home</p>
+<p><Linear name="home" size="4rem" axis_y="-0.5rem" axis_x="0.5rem" /> Home</p>
+<p><Outline name="home" size="25pt" axis_y="3pt" axis_x="0.5pt" /> Home</p>
+<p><Twotone name="home" size="8%" axis_y="5px" axis_x="0.5px" /> Home</p>
 
 <style>
 	p {
