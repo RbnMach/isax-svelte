@@ -1,3 +1,6 @@
+<a href='https://ko-fi.com/rubenmach' target='_blank'><img height='42' style='border:0px;height:42px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=3' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
+
 # Iconsax for Svelte
 
 This is an icon library for Svelte based on [iconsax](https://iconsax.io/). These icons are adapted to inherit the colors and sizes, you can use it as if it were a letter font.
