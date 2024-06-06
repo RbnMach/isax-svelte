@@ -1,5 +1,5 @@
 {
-	"name": "isaxvelt",
+	"name": "isaxvelte",
 	"version": "0.0.14",
 	"description": "Iconsax for Svelte",
 	"repository": {
@@ -10,7 +10,9 @@
 		"iconsax",
 		"svelte",
 		"icons",
-		"sveltekit"
+		"sveltekit",
+		"component",
+		"iconsax-svelte"
 	],
 	"author": "RubenMach",
 	"license": "MIT",
