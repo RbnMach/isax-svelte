@@ -1,6 +1,6 @@
 {
 	"name": "isaxvelt",
-	"version": "0.0.2",
+	"version": "0.0.5",
 	"description": "Iconsax for Svelte",
 	"repository": {
 		"type": "git",
@@ -12,7 +12,7 @@
 		"icons",
 		"sveltekit"
 	],
-	"author": "RbnMach",
+	"author": "RubenMach",
 	"license": "MIT",
 	"homepage": "https://github.com/RbnMach/isax-svelte#readme",
 	"scripts": {
@@ -29,7 +29,8 @@
 	"exports": {
 		".": {
 			"types": "./dist/index.d.ts",
-			"svelte": "./dist/index.js"
+			"svelte": "./dist/index.js",
+			"default": "./dist/index.js"
 		}
 	},
 	"files": [
