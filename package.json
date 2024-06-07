@@ -1,10 +1,10 @@
 {
 	"name": "isaxvelte",
-	"version": "0.0.2",
+	"version": "1.0.0",
 	"description": "Iconsax for Svelte",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/RbnMach/isax-svelte.git"
+		"url": "git+https://github.com/RbnMach/isaxvelte.git"
 	},
 	"keywords": [
 		"iconsax",
@@ -16,7 +16,7 @@
 	],
 	"author": "RubenMach",
 	"license": "MIT",
-	"homepage": "https://github.com/RbnMach/isax-svelte#readme",
+	"homepage": "https://github.com/RbnMach/isaxvelte#readme",
 	"scripts": {
 		"dev": "vite dev",
 		"build": "vite build && npm run package",
