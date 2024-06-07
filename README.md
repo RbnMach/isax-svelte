@@ -4,10 +4,11 @@
 
 This is an icon library for Svelte based on [iconsax](https://iconsax.io/). These icons are adapted to inherit the colors and sizes, you can use it as if it were a letter font.
 
+Take advantage of [Sveltekit](https://kit.svelte.dev) to be able to use the icons from [iconsax](https://iconsax.io/) with Isaxvelte 😁👌.
+
 ## Install the library
 
 ```bash
-# create a new project in the current directory
 npm i isaxvelte@latest
 ```
 
