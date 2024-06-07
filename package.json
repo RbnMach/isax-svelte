@@ -1,7 +1,7 @@
 {
 	"name": "isaxvelte",
-	"version": "1.0.0",
-	"description": "Iconsax for Svelte",
+	"version": "1.0.1",
+	"description": "Iconsax for Svelte, based on iconsax",
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/RbnMach/isaxvelte.git"
