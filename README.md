@@ -84,7 +84,7 @@ npm i isaxvelte@latest
 | `axis_x` | `string`                                            | optional | axis_x="24em", axis_x="24px", etc."          |
 | `axis_y` | `string`                                            | optional | axis_x="24em", axis_x="24px", etc."          |
 
-## Properties of the components "bold", "Broken", "Bulk", "Linear", "Outline", "Twotone"
+## Properties of the components "Bold", "Broken", "Bulk", "Linear", "Outline", "Twotone"
 
 | Prop     | Type     |          | Note                                         |
 | -------- | -------- | -------- | -------------------------------------------- |
