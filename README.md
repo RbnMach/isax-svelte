@@ -80,7 +80,7 @@ npm i isaxvelte@latest
 | Prop     | Type                                                |          | Note                                         |
 | -------- | --------------------------------------------------- | -------- | -------------------------------------------- |
 | `name`   | `string`                                            | required | name of the icon                             |
-| `type`   | `linear` `outline` `twoTone` `bulk` `broken` `bold` | requered | icons styles                                 |
+| `type`   | `linear` `outline` `twoTone` `bulk` `broken` `bold` | required | icons styles                                 |
 | `size`   | `string`                                            | optional | size="24em", size="24px", size="24rem, etc." |
 | `axis_x` | `string`                                            | optional | axis_x="24em", axis_x="24px", etc."          |
 | `axis_y` | `string`                                            | optional | axis_x="24em", axis_x="24px", etc."          |
@@ -96,7 +96,7 @@ npm i isaxvelte@latest
 
 ## Icon list
 
-Isaxvelte covers the entire list of icons [iconsax](https://iconsax.io/), even one other extra icon.
+Isaxvelte covers the entire list of icons [iconsax](https://iconsax.io/), even some additional icons.
 
 | Name                   | Linear | Bold | Broken | Bulk | Outline | Twotone |
 | ---------------------- | ------ | ---- | ------ | ---- | ------- | ------- |
