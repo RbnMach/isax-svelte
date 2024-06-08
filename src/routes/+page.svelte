@@ -2,10 +2,12 @@
 	import { Isax, Bold, Broken, Bulk, Linear, Outline, Twotone } from '$lib/index.js';
 
 	let name = 'user';
+	let type = 'bold';
 </script>
 
-<p><Isax {name} type="twotone" size="2em" axis_y="0.5em" axis_x="0.5em" /> Isax</p>
-<button on:click={() => (name == 'user' ? (name = 'home') : (name = 'user'))}>Click</button>
+<p><Isax {name} type="{type}" size="2em" axis_y="0.5em" axis_x="0.5em" /> Isax</p>
+<button on:click={() => (name == 'user' ? (name = 'home') : (name = 'user'))}>Cambiar name</button>
+<button on:click={() => (type == 'bold' ? (type = 'linear') : (type = 'bold'))}>Cambiar tipo</button>
 
 <p><Bold name="home" size="2em" axis_y="0.5em" axis_x="0.5em" /> Home</p>
 <p><Broken name="home" size="35px" axis_y="0.5px" axis_x="-1px" /> Home</p>

@@ -6,7 +6,7 @@
 	import Outline from '$lib/Outline.svelte';
 	import Twotone from '$lib/Twotone.svelte';
 
-	export let type: 'bold' | 'broken' | 'bulk' | 'linear' | 'outline' | 'twotone';
+	export let type: 'bold' | 'broken' | 'bulk' | 'linear' | 'outline' | 'twotone' | string;
 	export let name: string;
 	export let size = '1em';
 	export let axis_y = '0.13em';
